@@ -45,22 +45,23 @@ a {
 
 /* nav */
 .nav {
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 0 20%;
     max-height: 10vh;
     padding-top: 2%;
     border-radius: 1%;
 }
 
-.nav > li {
+.nav > a {
     align-self: center;
     text-align: center;
-    width: 20%;
-    padding: 2%;
+    width: 90%;
+    /* padding: 1.5%; */
+    margin: 10px;
     font-size: 30px;
 }
 
-.nav > li:hover {
+.nav > a:hover {
     border: 1px solid #D9D9D9;
     border-radius: 1%;
 }
