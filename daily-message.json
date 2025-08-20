@@ -1,0 +1,1462 @@
+[
+  {
+    "dia": 1,
+    "frase": "Bom dia! Começando o ano com o pé direito e a conta bancária no vermelho. Feliz 2026!"
+  },
+  {
+    "dia": 2,
+    "frase": "Bom dia, grupo. A ressaca de ano novo já passou ou ainda tá com a cabeça doendo? Quero provas."
+  },
+  {
+    "dia": 3,
+    "frase": "Sextou, mas a realidade é que é só o terceiro dia do ano. Bom dia e boa sorte na vida."
+  },
+  {
+    "dia": 4,
+    "frase": "Bom dia! Se o despertador tocou, é porque algo está errado. Vamos viver de tédio."
+  },
+  {
+    "dia": 5,
+    "frase": "Bom dia! Que a sua procrastinação seja tão grande quanto a sua vontade de não fazer nada hoje."
+  },
+  {
+    "dia": 6,
+    "frase": "Bom dia, gente! Se a gente pudesse viver só de rolê e cerveja, a vida seria mais fácil. Mas não dá, infelizmente."
+  },
+  {
+    "dia": 7,
+    "frase": "Bom dia! Que a sua semana seja tão produtiva quanto a sua lista de coisas que você não vai fazer."
+  },
+  {
+    "dia": 8,
+    "frase": "Bom dia! Se você não tiver dinheiro para o café, pode pedir aqui. Não vou dar, mas você pode pedir."
+  },
+  {
+    "dia": 9,
+    "frase": "Bom dia, seus vagabundos! Acorda que a conta não se paga sozinha. Ou sim? Queria saber."
+  },
+  {
+    "dia": 10,
+    "frase": "Bom dia! Se a vida te der limões, jogue-os na cara de quem te incomoda. Ou faça uma caipirinha. Bom final de semana."
+  },
+  {
+    "dia": 11,
+    "frase": "Bom dia! Que o seu domingo seja tão preguiçoso quanto a sua vontade de se exercitar."
+  },
+  {
+    "dia": 12,
+    "frase": "Bom dia, grupo! Que a sua semana comece tão bem quanto a sua cara de sono agora."
+  },
+  {
+    "dia": 13,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes."
+  },
+  {
+    "dia": 14,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 15,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 16,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 17,
+    "frase": "Bom dia, seus chatos! Pelo menos hoje é sexta. O dia de colocar o pijama e dormir cedo."
+  },
+  {
+    "dia": 18,
+    "frase": "Bom dia! Se o sábado não foi feito para dormir até tarde, então foi feito para quê? E me diz se você fez o que tinha de fazer, porque eu não fiz nada."
+  },
+  {
+    "dia": 19,
+    "frase": "Bom dia! Se a gente pudesse hibernar até a próxima segunda, a vida seria bem melhor. Mas não dá, né?"
+  },
+  {
+    "dia": 20,
+    "frase": "Bom dia! Se você já tá pensando na sexta, é porque a vida tá muito difícil."
+  },
+  {
+    "dia": 21,
+    "frase": "Bom dia! Mais um dia na luta, ou na cama, tanto faz. O importante é estar vivo."
+  },
+  {
+    "dia": 22,
+    "frase": "Bom dia! Se o seu dia não está bom, pelo menos lembre-se que você não é o único. Estamos todos no mesmo barco."
+  },
+  {
+    "dia": 23,
+    "frase": "Bom dia! Queria ser rico e ter um jatinho. Mas como não sou, pelo menos tenho o transporte público. Ou não."
+  },
+  {
+    "dia": 24,
+    "frase": "Bom dia, grupo! Hoje é dia de colocar a fofoca em dia, a vida em ordem, ou pelo menos fingir que faz isso."
+  },
+  {
+    "dia": 25,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 26,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 27,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 28,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 29,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 30,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 31,
+    "frase": "Bom dia! Chegou o último dia do mês e a conta bancária tá como? No vermelho. Mas pelo menos acabou, né?"
+  },
+  {
+    "dia": 32,
+    "frase": "Bom dia! E o ano segue, a vida também. A gente vai levando, como se nada estivesse acontecendo. Mas tá. Bom fevereiro!"
+  },
+  {
+    "dia": 33,
+    "frase": "Bom dia, seus lindos! Já passou o carnaval? Porque para mim, parece que a vida é uma folia interminável. E eu nem gosto disso."
+  },
+  {
+    "dia": 34,
+    "frase": "Bom dia! Que a sua vida seja tão plena quanto a minha vontade de ficar na cama hoje. Ou seja, zero."
+  },
+  {
+    "dia": 35,
+    "frase": "Bom dia! Hoje é dia de pensar na vida. Ou não. Vamos só procrastinar e ver o que acontece."
+  },
+  {
+    "dia": 36,
+    "frase": "Bom dia! Se a vida é uma comédia, eu sou o palhaço principal. E sem graça, por sinal."
+  },
+  {
+    "dia": 37,
+    "frase": "Bom dia! Sextou, grupo. Se você não tem rolê, pode ir dormir que a vida segue. Eu já tô de pijama."
+  },
+  {
+    "dia": 38,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só, vamos aproveitar."
+  },
+  {
+    "dia": 39,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 40,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 41,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 42,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 43,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 44,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 45,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 46,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 47,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 48,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 49,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 50,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 51,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 52,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 53,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 54,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 55,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 56,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 57,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 58,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 59,
+    "frase": "Bom dia! Fim de fevereiro, graças a Deus. Queria ser um milionário, mas já que não sou, pelo menos tenho o fim do mês, né?"
+  },
+  {
+    "dia": 60,
+    "frase": "Bom dia! Chegamos em março. Que a sua vida seja tão boa quanto a sua preguiça. E que você não tenha que trabalhar. Bom março, pessoal!"
+  },
+  {
+    "dia": 61,
+    "frase": "Bom dia! Eu não sei vocês, mas eu já tô cansado só de pensar na semana. Bom dia e boa sorte na vida."
+  },
+  {
+    "dia": 62,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 63,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 64,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 65,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 66,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 67,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 68,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 69,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 70,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 71,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 72,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 73,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 74,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 75,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 76,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 77,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 78,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 79,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 80,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 81,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 82,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 83,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 84,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 85,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 86,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 87,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 88,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 89,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 90,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 91,
+    "frase": "Bom dia! Chegamos em abril, o mês da mentira. E se a sua vida não é uma, eu não sei o que é. Bom abril, pessoal!"
+  },
+  {
+    "dia": 92,
+    "frase": "Bom dia! Que a sua semana seja tão cheia de surpresas quanto a sua conta bancária. Mas que sejam boas surpresas, por favor."
+  },
+  {
+    "dia": 93,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 94,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 95,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 96,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 97,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 98,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 99,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 100,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 101,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 102,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 103,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 104,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 105,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 106,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 107,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 108,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 109,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 110,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 111,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 112,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 113,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 114,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 115,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 116,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 117,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 118,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 119,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 120,
+    "frase": "Bom dia! Chegamos em maio, o mês das flores. Mas para a gente, é só mais um mês para pagar conta. Bom maio, pessoal!"
+  },
+  {
+    "dia": 121,
+    "frase": "Bom dia! Que a sua semana seja tão produtiva quanto a sua lista de coisas que você não vai fazer."
+  },
+  {
+    "dia": 122,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 123,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 124,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 125,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 126,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 127,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 128,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 129,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 130,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 131,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 132,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 133,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 134,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 135,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 136,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 137,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 138,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 139,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 140,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 141,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 142,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 143,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 144,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 145,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 146,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 147,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 148,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 149,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 150,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 151,
+    "frase": "Bom dia! Chegamos em junho, o mês das festas juninas. Mas a única festa que eu quero é uma festa de pijama. Bom junho, pessoal!"
+  },
+  {
+    "dia": 152,
+    "frase": "Bom dia! Que a sua semana seja tão produtiva quanto a sua lista de coisas que você não vai fazer."
+  },
+  {
+    "dia": 153,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 154,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 155,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 156,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 157,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 158,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 159,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 160,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 161,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 162,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 163,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 164,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 165,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 166,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 167,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 168,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 169,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 170,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 171,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 172,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 173,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 174,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 175,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 176,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 177,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 178,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 179,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 180,
+    "frase": "Bom dia! Chegamos em julho, o mês das férias. Se você não tem, pode chorar que eu choro junto. Bom julho, pessoal!"
+  },
+  {
+    "dia": 181,
+    "frase": "Bom dia! Que a sua semana seja tão cheia de surpresas quanto a sua conta bancária. Mas que sejam boas surpresas, por favor."
+  },
+  {
+    "dia": 182,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 183,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 184,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 185,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 186,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 187,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 188,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 189,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 190,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 191,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 192,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 193,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 194,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 195,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 196,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 197,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 198,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 199,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 200,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 201,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 202,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 203,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 204,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 205,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 206,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 207,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 208,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 209,
+    "frase": "Bom dia! Chegamos em agosto. Que o seu mês seja tão bom quanto o meu café da manhã. Ou seja, terrível. Bom agosto, pessoal!"
+  },
+  {
+    "dia": 210,
+    "frase": "Bom dia! Que a sua semana seja tão cheia de surpresas quanto a sua conta bancária. Mas que sejam boas surpresas, por favor."
+  },
+  {
+    "dia": 211,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 212,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 213,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 214,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 215,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 216,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 217,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 218,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 219,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 220,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 221,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 222,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 223,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 224,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 225,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 226,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 227,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 228,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 229,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 230,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 231,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 232,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 233,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 234,
+    "frase": "Bom dia! Chegamos em setembro, o mês da primavera. Mas para a gente, é só mais um mês para pagar conta. Bom setembro, pessoal!"
+  },
+  {
+    "dia": 235,
+    "frase": "Bom dia! Que a sua semana seja tão produtiva quanto a sua lista de coisas que você não vai fazer."
+  },
+  {
+    "dia": 236,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 237,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 238,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 239,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 240,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 241,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 242,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 243,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 244,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 245,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 246,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 247,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 248,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 249,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 250,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 251,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 252,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 253,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 254,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 255,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 256,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 257,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 258,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 259,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 260,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 261,
+    "frase": "Bom dia! Chegamos em outubro, o mês das bruxas. Mas a única bruxaria que eu quero é um feitiço para ganhar na loteria. Bom outubro, pessoal!"
+  },
+  {
+    "dia": 262,
+    "frase": "Bom dia! Que a sua semana seja tão cheia de surpresas quanto a sua conta bancária. Mas que sejam boas surpresas, por favor."
+  },
+  {
+    "dia": 263,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 264,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 265,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 266,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 267,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 268,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 269,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 270,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 271,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 272,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 273,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 274,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 275,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 276,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 277,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 278,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 279,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 280,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 281,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 282,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 283,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 284,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 285,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 286,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 287,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 288,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 289,
+    "frase": "Bom dia! Chegamos em novembro, o mês das promoções. Se você não está falido, pode vir aqui me dar um pouco de dinheiro. Bom novembro, pessoal!"
+  },
+  {
+    "dia": 290,
+    "frase": "Bom dia! Que a sua semana seja tão produtiva quanto a sua lista de coisas que você não vai fazer."
+  },
+  {
+    "dia": 291,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 292,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 293,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 294,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 295,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 296,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 297,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 298,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 299,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 300,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 301,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 302,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 303,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 304,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 305,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 306,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 307,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 308,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 309,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 310,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 311,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 312,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 313,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 314,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 315,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 316,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 317,
+    "frase": "Bom dia! Chegamos em dezembro. O mês do 13º. Se você já gastou, pode chorar que eu choro junto. Feliz mês, pessoal!"
+  },
+  {
+    "dia": 318,
+    "frase": "Bom dia! Que a sua semana seja tão cheia de surpresas quanto a sua conta bancária. Mas que sejam boas surpresas, por favor."
+  },
+  {
+    "dia": 319,
+    "frase": "Bom dia! Mais um dia para a gente fingir que trabalha e se matar de rir dos memes. A vida é isso."
+  },
+  {
+    "dia": 320,
+    "frase": "Bom dia! Se a vida te der mais trabalho, peça um aumento. Ou umas férias. Ou os dois."
+  },
+  {
+    "dia": 321,
+    "frase": "Bom dia! Chegou no meio da semana, a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 322,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 323,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 324,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 325,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 326,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 327,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 328,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 329,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 330,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 331,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 332,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 333,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 334,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 335,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 336,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 337,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 338,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 339,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 340,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 341,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 342,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 343,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 344,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 345,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 346,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 347,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 348,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 349,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 350,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 351,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 352,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 353,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 354,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 355,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 356,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 357,
+    "frase": "Bom dia! O domingo é o dia de comer e dormir. Não me venham com essa de fazer exercício. Já basta a semana inteira."
+  },
+  {
+    "dia": 358,
+    "frase": "Bom dia! Que a sua semana comece tão bem quanto o seu sono de beleza. Que no meu caso, não existe."
+  },
+  {
+    "dia": 359,
+    "frase": "Bom dia! Eu queria ser um urso polar. Só comer e dormir. E não ter conta para pagar. Que maravilha."
+  },
+  {
+    "dia": 360,
+    "frase": "Bom dia! A vida é um loop infinito de trabalho, estresse e memes. Mas pelo menos tem memes, né?"
+  },
+  {
+    "dia": 361,
+    "frase": "Bom dia! Chegou o meio da semana e a gente já tá quase pedindo um atestado médico, mas bora lá."
+  },
+  {
+    "dia": 362,
+    "frase": "Bom dia! Eu queria ser rico e famoso. Mas já que não dá, pelo menos tenho vocês, né? Ou não."
+  },
+  {
+    "dia": 363,
+    "frase": "Bom dia! Sextou, amigos! E se você não tem rolê, pode ir dormir que a vida segue."
+  },
+  {
+    "dia": 364,
+    "frase": "Bom dia! Sábado, o dia de lavar a louça e arrumar a casa. Ou não, né? A vida é uma só."
+  },
+  {
+    "dia": 365,
+    "frase": "Bom dia! Chegamos ao fim do ano. Obrigado por fazerem parte da minha tristeza. Feliz 2027!"
+  }
+]
