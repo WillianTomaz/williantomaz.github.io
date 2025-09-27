@@ -47,7 +47,7 @@ a {
 .nav {
     justify-content: space-around;
     padding: 0 20%;
-    max-height: 10vh;
+    /* max-height: 10vh; -> REMOVED/IMPROVED for better reflow */
     padding-top: 2%;
     border-radius: 1%;
 }
@@ -105,7 +105,8 @@ ul.lang > li:hover, ul.lang > li > a:hover {
 /* dividing div */
 .bio-info-1 {
     padding: 0% 20%;
-    max-height: 50vh;
+    /* max-height: 50vh; -> REMOVED/IMPROVED for better reflow */
+    min-height: 50vh; /* Set a minimum height instead of a max height */
 }
 
 /* bio-info-1 > bio-left */
@@ -212,9 +213,7 @@ footer {
     text-align: center;
 }
 
-/* 
-
-PROJETOS
+/* PROJETOS
 
 */
 
@@ -255,9 +254,47 @@ PROJETOS
     padding-bottom: 1%;
 }
 
-/* 
+/* INTERMEDIATE DEVICES (TABLET/SMALL DESKTOP) 
 
-MOBILE 
+*/
+@media only screen and (min-width: 769px) and (max-width: 1200px) {
+    /* Reduce overall section padding to reclaim horizontal space */
+    .nav, section.lang, .bio-info-1, .bio-info, footer {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    /* Adjust nav link size to fit better */
+    .nav > a {
+        font-size: 24px;
+    }
+    
+    /* Slightly less padding for bio content */
+    .bio-right {
+        padding-left: 3%; 
+    }
+
+    /* Make language selector a bit wider for easier tapping */
+    ul.lang {
+        width: 15%;
+    }
+    
+    /* Ensure smaller content elements are also centered on screen */
+    .social {
+        width: 30%; /* Make social icons area larger but still centered */
+    }
+
+    /* Adjust font sizes down slightly for better fit */
+    h1 {
+        font-size: 26px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+}
+
+
+/* MOBILE 
 
 */
 @media only screen and (max-width: 768px) {
@@ -299,11 +336,13 @@ MOBILE
     }
     .bio-info-1 {
         flex-direction: column;
-        max-height: 100vh;
+        /* max-height: 100vh; -> REMOVED */
+        min-height: auto; /* Allow height to adjust to content */
         margin-bottom: 2%;
     }
     .bio-left, .bio-right {
         width: 100%;
+        padding-left: 0; /* Remove unnecessary left padding on mobile */
     }
     .photo {
         width: 100%;
@@ -332,5 +371,4 @@ MOBILE
     .right-post {
         display: none;
     }
-
 }
